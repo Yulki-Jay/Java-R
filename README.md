@@ -1,4 +1,4 @@
 # Java-R
 restart to study java
 
-test git
+test git and idea
