@@ -7,7 +7,6 @@ public class CommentDemo {
          * 文档注释
          */
 
-
         //单行注释
         System.out.println("Hello World"); //输出hello world
         /*
