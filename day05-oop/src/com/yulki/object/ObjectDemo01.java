@@ -11,6 +11,7 @@ public class ObjectDemo01 {
         System.out.println("姓名：" + star.name);
         System.out.println("年龄：" + star.age);
         System.out.println("性别：" + star.gender);
+        System.out.println("电话：" + star.phone);
 
     }
 }
